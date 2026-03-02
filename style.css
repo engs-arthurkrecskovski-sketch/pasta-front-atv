@@ -10,25 +10,13 @@ color: blue;
 background-color: yellow;
 }
 
-
-
-
-
 input[type="password"] {
 border: 2px solid blue;
 }
 
-
-
-
-
 .importante {
 color: red;
 }
-
-
-
-
 
 button:hover {
 background-color: lightgreen;
