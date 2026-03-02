@@ -21,3 +21,12 @@ color: red;
 button:hover {
 background-color: lightgreen;
 }
+
+.container > div > p {
+color: purple;
+}
+
+p::first-letter {
+font-size: 24px;
+font-weight: bold;
+}
