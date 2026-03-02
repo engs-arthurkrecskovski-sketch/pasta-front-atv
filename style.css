@@ -5,3 +5,19 @@ font-family: Arial, sans-serif;
 #titulo-principal {
 color: blue;
 }
+
+
+
+
+
+.importante {
+color: red;
+}
+
+
+
+
+
+button:hover {
+background-color: lightgreen;
+}
